@@ -45,7 +45,7 @@ This was probably the most challenging part of the project for me. I wasn’t ex
 
 After researching possible solutions, I settled on using a **voltage divider**:
 
-![[Screenshot from 2025-07-04 13.27.56.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/ControlButtons.png)
 
 When no button is pressed, current flows through all the resistors. When a button is pressed, a part of the circuit is bypassed, which changes the voltage. By measuring this voltage, I can determine which button was pressed.
 
