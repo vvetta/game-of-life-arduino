@@ -28,7 +28,7 @@ First, I planned out which components my game console would include:
 
 Connecting the display is extremely simple (the schematic might show a different display model, but the principle is the same):
 
-![[Screenshot from 2025-07-04 13.13.50.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/DisplayConnection.png)
 
 |Arduino|SSD1306 Display|
 |---|---|
