@@ -136,11 +136,11 @@ The game has two modes:
 
 Front view:
 
-![[Screenshot From 2025-07-05 14-24-52.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Screenshot%20From%202025-07-05%2014-24-52.png)
 
 Back view:
 
-![[Screenshot From 2025-07-05 14-25-17.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Screenshot%20From%202025-07-05%2014-25-17.png)
 
 ## Conclusion
 
