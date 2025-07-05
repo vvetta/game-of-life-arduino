@@ -67,7 +67,7 @@ This is important to consider when developing your logic.
 
 As I mentioned earlier, I wanted the device to be **completely standalone**. The final power circuit looks like this:
 
-![[Screenshot From 2025-07-05 13-06-31.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Screenshot%20From%202025-07-05%2013-06-31.png)
 
 Soldering was required here, but it was fairly simple — I only had to solder a couple of wires.
 
