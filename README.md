@@ -73,7 +73,7 @@ Soldering was required here, but it was fairly simple — I only had to solder a
 
 ### Full Wiring Diagram
 
-![[Full_scheme.png]]
+![[https://github.com/vvetta/game-of-life-arduino/blob/main/images/Full_scheme.png]]
 
 With the hardware part completed, let’s move on to the software!
 
