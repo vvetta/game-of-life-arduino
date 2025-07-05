@@ -2,6 +2,8 @@
 A handheld Arduino-based version of Conway's Game of Life with an OLED display, custom controls, and battery-powered design.
 
 ---
+![Russian version](https://github.com/vvetta/game-of-life-arduino/blob/main/README_RUS.md)
+---
 
 ## About the Project
 
