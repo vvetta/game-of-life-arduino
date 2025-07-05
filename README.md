@@ -51,15 +51,15 @@ When no button is pressed, current flows through all the resistors. When a butto
 
 Here’s an example with the first button pressed:
 
-![[Pressed first button.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Pressed%20first%20button.png)
 
 If the second button is pressed, the circuit changes in a similar way:
 
-![[Pressed second button.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Pressed%20second%20button.png)
 
 If multiple buttons are pressed at once, the system detects **only the one** that is **closest to ground**. For example:
 
-![[Pressed five button.png]]
+![](https://github.com/vvetta/game-of-life-arduino/blob/main/images/Pressed%20five%20button.png)
 
 This is important to consider when developing your logic.
 
